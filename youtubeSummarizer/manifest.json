@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube video Summarizer",
+    "version": "1.0",
+    "description": "A simple extension to summarize the video you are watching.",
+    "permissions": ["activeTab"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
