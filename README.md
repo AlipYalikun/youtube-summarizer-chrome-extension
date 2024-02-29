@@ -23,8 +23,8 @@ The extension operates through a simple user interface within the Chrome browser
 6. Clcik on `Extension` button next to the search bar.
 7. The extension should now be ready for use.
 
-[!NOTE] 
-I am using the free tier susbscrpition so there maybe hard limits on requests calls. 
+> [!NOTE]
+> I am using the free tier susbscrpition so there maybe hard limits on requests calls. 
 
 ## Feedback and Contributions
 I welcome contributions from the community to enhance the functionality and usability of the extension. 
