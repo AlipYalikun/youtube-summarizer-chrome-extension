@@ -1,7 +1,7 @@
 # YouTube Video Summarizer Chrome Extension
 
-# Project Introduction
-Welcome to the The YouTube Summarizer Chrome Extension project. The project is a versatile tool designed to enhance the user experience on YouTube by providing concise summaries of the video. With the exponential growth of video content online, accessing valuable information quickly can be challenging. This extension aims to address this challenge by leveraging advanced technologies to generate summaries of video on-demand. The project itself is based on my personal interest as well as learning about APIs. 
+# Introduction
+Welcome to the The YouTube Summarizer Chrome Extension. This extension is a versatile tool designed to enhance the user experience on YouTube by providing concise summaries of the video. With the exponential growth of video content online, accessing valuable information quickly can be challenging. This extension aims to address this challenge by leveraging advanced technologies to generate summaries of video on-demand. This extension itself is based on my personal interest as well as learning about APIs. 
 
 ## Key Features
 1. Summarization: Automatically generates summaries of video transcripts extracted from YouTube videos.
