@@ -1,7 +1,10 @@
-# YouTube Video Summarizer Chrome Extension
+# YouSum
 
 # Introduction
-Welcome to the The YouTube Summarizer Chrome Extension. This extension is a versatile tool designed to enhance the user experience on YouTube by providing concise summaries of the video. With the exponential growth of video content online, accessing valuable information quickly can be challenging. This extension aims to address this challenge by leveraging advanced technologies to generate summaries of video on-demand. This extension itself is based on my personal interest as well as learning about APIs. 
+Welcome to the The YouSum. This application/Chrome extension is a versatile tool designed to enhance the user experience on YouTube by providing concise summaries of the video.
+
+## Motivation
+Throughout my college career, I tend to watch a lot of YouTube videos to find extra knowledge for my classes. However, there are videos that are either too long or videos that do not align with what I need. To fix that, I made YouSum. 
 
 ## Key Features
 1. Summarization: Automatically generates summaries of video transcripts extracted from YouTube videos.
@@ -11,7 +14,7 @@ Welcome to the The YouTube Summarizer Chrome Extension. This extension is a vers
 5. Efficient Processing: Employs asynchronous JavaScript and modern web APIs to ensure efficient data retrieval and processing.
 
 ## How it Works
-The extension operates through a simple user interface within the Chrome browser. Upon installation, users can activate the extension while watching YouTube videos. By clicking the designated button, the extension extracts the video's transcript and sends it to an external service for summarization. The summarized content is then displayed to the user, offering a condensed version of the original transcript. Additionally, users have the option to listen to the summarized content using the built-in text-to-speech functionality.
+YouSum operates through a simple user interface within the Chrome browser. Upon installation, users can activate the extension while watching YouTube videos. By clicking the designated button, the extension extracts the video's transcript and sends it to an AI API endpoint for summarization. The summarized content is then displayed to the user, offering a condensed version of the original transcript. Additionally, users have the option to listen to the summarized content using the built-in text-to-speech functionality.
 
 ## How to use
 1. Clone the repository to your local machine: `git clone https://github.com/yourusername/youtube-transcript-summarizer-extension.git
@@ -24,13 +27,13 @@ The extension operates through a simple user interface within the Chrome browser
 7. The extension should now be ready for use.
 
 > [!NOTE]
-> I am using the free tier susbscrpition so there maybe hard limits on requests calls. 
+> I am using the free tier susbscrpition on RapidAPI so there maybe hard limits on requests calls. 
 
 ## Feedback and Contributions
 I welcome contributions from the community to enhance the functionality and usability of the extension. 
 
 ## Contect
-For any inquiries or feedback regarding the YouTube Summarizer Chrome Extension, please contact me at al.yalkun@gmail.com.
+For any inquiries or feedback regarding the YouSum, please contact me at al.yalkun@gmail.com.
 
 ## References
 ### APIs
